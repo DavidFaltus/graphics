@@ -3,10 +3,10 @@ package pro1.drawingModel;
 import java.awt.*;
 
 public abstract class XYShape implements Drawable {
-    protected double x;
-    protected double y;
+    protected int x;
+    protected int y;
 
-    public XYShape(double x, double y) {
+    public XYShape(int x, int y) {
         this.x = x;
         this.y = y;
     }

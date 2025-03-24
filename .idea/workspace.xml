@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4751b47e-e69f-4d1d-bca3-1a441349bad5" name="Changes" comment="První commit Graphics" />
+    <list default="true" id="4751b47e-e69f-4d1d-bca3-1a441349bad5" name="Changes" comment="První commit Graphics">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/WidthHeightShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/WidthHeightShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/XYShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/XYShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/DrawingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/DrawingPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/MainFrame.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,8 +45,8 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DavidFaltus/graphics&quot;,
-    &quot;accountId&quot;: &quot;e607fdc1-53ea-47da-b382-637961361f34&quot;
+    &quot;url&quot;: &quot;https://github.com/DavidFaltus/graphics.git&quot;,
+    &quot;accountId&quot;: &quot;c16f9abe-492e-4299-bcc2-1e1b09a9d647&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -52,24 +63,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "P:/PRO1/graphicsB",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/PRO1/graphicsB&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pro1.Main" />
@@ -82,8 +93,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.153" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.153" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
       </set>
     </attachedChunks>
   </component>
@@ -101,6 +112,8 @@
       <workItem from="1742810286661" duration="250000" />
       <workItem from="1742810904614" duration="85000" />
       <workItem from="1742811031856" duration="1417000" />
+      <workItem from="1742830218005" duration="2282000" />
+      <workItem from="1742836387722" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="První commit Graphics">
       <option name="closed" value="true" />

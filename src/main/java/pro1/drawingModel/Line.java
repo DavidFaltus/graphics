@@ -20,6 +20,6 @@ public class Line extends XYShape {
     public void draw(Graphics2D g) {
         g.setStroke(new BasicStroke(thickness));
         g.setColor(Color.decode(color));
-        g.drawLine(x1,y1,x2,y2);
+        g.drawLine(x,y,x2,y2);
     }
 }
