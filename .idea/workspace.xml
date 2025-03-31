@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4751b47e-e69f-4d1d-bca3-1a441349bad5" name="Changes" comment="První commit Graphics">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4751b47e-e69f-4d1d-bca3-1a441349bad5" name="Changes" comment="Cviko 7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/ParkPlanningFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Ellipse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Line.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/WidthHeightShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/WidthHeightShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/XYShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/XYShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/DrawingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/DrawingPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +106,7 @@
       <workItem from="1742810904614" duration="85000" />
       <workItem from="1742811031856" duration="1417000" />
       <workItem from="1742830218005" duration="2282000" />
-      <workItem from="1742836387722" duration="1297000" />
+      <workItem from="1742836387722" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="První commit Graphics">
       <option name="closed" value="true" />
@@ -139,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742809758749</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cviko 7">
+      <option name="closed" value="true" />
+      <created>1742837920200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742837920200</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="První commit Graphics" />
-    <option name="LAST_COMMIT_MESSAGE" value="První commit Graphics" />
+    <MESSAGE value="Cviko 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cviko 7" />
   </component>
 </project>
