@@ -4,51 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4751b47e-e69f-4d1d-bca3-1a441349bad5" name="Changes" comment="Cviko 7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/ParkPlanningFrame.java" afterDir="false" />
+    <list default="true" id="18b079ae-d47a-49d5-a9a4-fd7871300bb5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/drawingModel/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/ParkPlanningFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pro1/swingComponents/ParkPlanningFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;DavidFaltus&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DavidFaltus"
   }
-}</component>
-  <component name="GitRewordedCommitMessages">
-    <option name="onto" value="7fe78bab7ecc8fb1efd7a92353cd5336aa0c6e76" />
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DavidFaltus/graphics.git&quot;,
-    &quot;accountId&quot;: &quot;c16f9abe-492e-4299-bcc2-1e1b09a9d647&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DavidFaltus/graphics.git",
+    "accountId": "c16f9abe-492e-4299-bcc2-1e1b09a9d647"
   }
-}</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2uRIvegE9M9z71rMc2LKpPMN6cK" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2v5njkZI23TQmFzeLGkCB19PZ7r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -56,33 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;P:/PRO1/graphicsB&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro1.Main" />
-      <module name="graphics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,53 +66,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4751b47e-e69f-4d1d-bca3-1a441349bad5" name="Changes" comment="" />
-      <created>1742205193939</created>
+      <changelist id="18b079ae-d47a-49d5-a9a4-fd7871300bb5" name="Changes" comment="Začátek Ukol 2" />
+      <created>1743443940699</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742205193939</updated>
-      <workItem from="1742205195165" duration="4926000" />
-      <workItem from="1742809290234" duration="588000" />
-      <workItem from="1742809909819" duration="57000" />
-      <workItem from="1742810286661" duration="250000" />
-      <workItem from="1742810904614" duration="85000" />
-      <workItem from="1742811031856" duration="1417000" />
-      <workItem from="1742830218005" duration="2282000" />
-      <workItem from="1742836387722" duration="3065000" />
+      <updated>1743443940699</updated>
+      <workItem from="1743443942063" duration="678000" />
     </task>
-    <task id="LOCAL-00001" summary="První commit Graphics">
-      <option name="closed" value="true" />
-      <created>1742210100777</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1742210100777</updated>
-    </task>
-    <task id="LOCAL-00002" summary="První commit Graphics">
-      <option name="closed" value="true" />
-      <created>1742809407431</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1742809407431</updated>
-    </task>
-    <task id="LOCAL-00003" summary="První commit Graphics">
-      <option name="closed" value="true" />
-      <created>1742809758749</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1742809758749</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Cviko 7">
-      <option name="closed" value="true" />
-      <created>1742837920200</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1742837920200</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,8 +90,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="První commit Graphics" />
-    <MESSAGE value="Cviko 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cviko 7" />
+    <MESSAGE value="Začátek Ukol 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Začátek Ukol 2" />
   </component>
 </project>
